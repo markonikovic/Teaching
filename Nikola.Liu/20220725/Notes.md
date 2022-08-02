@@ -19,12 +19,9 @@ On phones you don't have designated controller.
 
 The screen is too small, and graphics are much more impressive on a computer or a console.  
 
-
-
-
 ## Vocabulary
 ### Useful words
 1. convenience(noun)
 1. convenient(adj.)
-1. lucrative(adj.):brining a lot of money, benefits.  
+1. lucrative(adj.):brining a lot of money, benefits.
 1. etc(latin expression):et cetera
