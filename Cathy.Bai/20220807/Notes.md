@@ -1,4 +1,4 @@
-# Waterig Your Plants Or Killing Them?
+# Watering Your Plants Or Killing Them?
 ## Discussion
 Just one cup of coffee has such a strong effect on you?  
 Yes, it does.  
