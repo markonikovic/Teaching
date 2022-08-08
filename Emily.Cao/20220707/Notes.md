@@ -1,6 +1,6 @@
 # Control Laughter
 ## Discussion
-I am going to cook noodles for lunch.  
+//center I am going to cook noodles for lunch.  
 
 We just imagine pasta when you say noodles.  
 
